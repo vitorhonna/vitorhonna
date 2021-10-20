@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/vitorhonna">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vitorhonna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhonna&layout=compact&theme=radical">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhonna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhonna&layout=compact&theme=radical">
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&theme=radical">
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&theme=radical">
 </div>
 
 ##
