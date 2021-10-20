@@ -4,10 +4,11 @@
   <a href="https://github.com/vitorhonna">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorhonna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhonna&layout=compact&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&layout=compact&theme=radical">
   </a>
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&layout=compact&theme=radical">
+</div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
