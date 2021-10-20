@@ -18,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&theme=radical">
 </div>
 
 ##
