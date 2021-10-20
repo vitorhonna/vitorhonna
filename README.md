@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&theme=radical">
 </div>
 
 ##
