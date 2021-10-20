@@ -1,4 +1,5 @@
 ## Oi! 😃
+
 <div align="center">
   <a href="https://github.com/vitorhonna">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorhonna&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
@@ -17,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorhonna&theme=radical">
 </div>
 
 ##
