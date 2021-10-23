@@ -16,12 +16,12 @@
   <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!-- <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
 </div>
- <!--
+ 
 <br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&theme=radical&layout=compact">
 </div>
--->
+
   
 ##
 
