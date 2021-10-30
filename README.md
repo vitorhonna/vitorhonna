@@ -19,7 +19,7 @@
  
 <br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&theme=radical&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&langs_count=8&theme=radical&layout=compact">
 </div>
 
   
