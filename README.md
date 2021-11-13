@@ -13,6 +13,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="MATLAB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/vitorhonna/vitorhonna/blob/66beb888b479ea3d96f8e1474156fa1a1a3d7a20/markdown.svg">
   <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!-- <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
 </div>
