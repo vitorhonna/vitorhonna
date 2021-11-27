@@ -20,7 +20,7 @@
  
 <br>
 <div align="center">
-  <img height="160em" alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&langs_count=8&theme=radical&layout=compact"> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vitorhonna&langs_count=8&theme=radical&layout=compact"> 
   <img height="160em" alt="Cat coding" src="https://media3.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif">
 </div>
 
