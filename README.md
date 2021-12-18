@@ -16,6 +16,7 @@
   <img align="center" alt="Markdown" height="20" width="50" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/markdown-white-filled.svg">
   <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!-- <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
+  <!-- <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
 </div>
  
 <br>
